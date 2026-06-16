@@ -207,7 +207,7 @@ Graduated with a **B.S. in Software Engineering from COMSATS University Islamaba
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammadtalha97&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Muhammadtalha97&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -258,19 +258,79 @@ Graduated with a **B.S. in Software Engineering from COMSATS University Islamaba
 
 <div align="center">
 
-### ⚡ Future Vision
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  BUILDING THE FUTURE                                                        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🌐  Turn ideas into global digital products used by millions                 │
-│  🏢  Build a company culture focused on innovation, speed, and quality        │
-│  🚀  Become a recognized name in global tech entrepreneurship                 │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,50:764ba2,100:5b21b6&height=120&section=header&text=Future%20Vision&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Building%20companies%20that%20create%20global%20impact&descSize=14&descAlignY=72" alt="Future Vision" width="100%" />
 
 </div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+<br/>
+
+### 🌐
+
+**Global Products**
+
+<br/>
+
+*Turn ideas into digital products used by millions worldwide — building software that scales beyond borders.*
+
+<br/>
+
+![Global](https://img.shields.io/badge/Scale-Worldwide-667EEA?style=flat-square)
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<br/>
+
+### 🏢
+
+**Company Culture**
+
+<br/>
+
+*Build a team-driven culture rooted in innovation, execution speed, and uncompromising product quality.*
+
+<br/>
+
+![Culture](https://img.shields.io/badge/Focus-Innovation%20%7C%20Speed%20%7C%20Quality-764BA2?style=flat-square)
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<br/>
+
+### 🚀
+
+**Global Recognition**
+
+<br/>
+
+*Become a recognized name in tech entrepreneurship — a founder who builds, leads, and ships at scale.*
+
+<br/>
+
+![Leadership](https://img.shields.io/badge/Identity-Founder%20%7C%20Builder%20%7C%20Leader-5B21B6?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> *"The best way to predict the future is to build it."*
+>
+> **— Muhammad Talha** · CEO & Founder, [Encode Genius](https://www.linkedin.com/company/encodegenius)
+
+</div>
+
+<br/>
 
 ---
 
