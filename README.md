@@ -24,7 +24,7 @@
 ```yaml
 name: Muhammad Talha
 role: Full Stack Web Developer | CEO & Founder @ Encode Genius
-education: Software Engineering @ COMSATS University Islamabad
+education: B.S. Software Engineering @ COMSATS University Islamabad (2025) · 3.79/4.00 CGPA
 experience: 3+ years building production-grade web applications
 location: Pakistan
 focus: SaaS · Startups · Software Architecture · AI-Powered Apps
@@ -32,7 +32,7 @@ focus: SaaS · Startups · Software Architecture · AI-Powered Apps
 
 I'm a **Full Stack Web Developer** with **3+ years** of professional experience, passionate about building **modern, high-performance web applications** that solve real business problems. As the **CEO & Founder of [Encode Genius](https://www.linkedin.com/company/encodegenius)**, I lead a software development company focused on delivering **scalable SaaS products** and **enterprise-grade client solutions**.
 
-Currently pursuing **Software Engineering at COMSATS University Islamabad** with a strong academic record as a **top-performing student**, I combine deep technical expertise with a **business-first mindset** — bridging engineering excellence and entrepreneurial vision.
+Graduated with a **B.S. in Software Engineering from COMSATS University Islamabad (2025)** with a **3.79/4.00 CGPA**, I combine deep technical expertise with a **business-first mindset** — bridging engineering excellence and entrepreneurial vision.
 
 > *I don't just write code — I build products, lead teams, and ship solutions that scale.*
 
@@ -74,15 +74,17 @@ Currently pursuing **Software Engineering at COMSATS University Islamabad** with
 <div align="center">
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -93,9 +95,11 @@ Currently pursuing **Software Engineering at COMSATS University Islamabad** with
 
 ### Mobile & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Google Keep](https://img.shields.io/badge/Google_Keep-FBBC04?style=for-the-badge&logo=googlekeep&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -103,7 +107,7 @@ Currently pursuing **Software Engineering at COMSATS University Islamabad** with
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,js,nodejs,express,php,mongodb,mysql,tailwind,bootstrap,flutter,git,github,vscode&perline=8" alt="Tech Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,django,tailwind,bootstrap,vscode,cursor,git,github&perline=7" alt="Tech Icons" />
 
 </div>
 
@@ -131,10 +135,10 @@ Currently pursuing **Software Engineering at COMSATS University Islamabad** with
 
 <br/>
 
-### 🏗️ [Construction Click](https://github.com/Muhammadtalha97)
-> Full-featured **SaaS platform** for the construction industry — project management, workflows & business automation.
+### ✈️ [Skyvela.com](https://skyvela.com)
+> Full-featured **travel booking platform** — flights, hotels, tours, car rentals & airport transfers in one place.
 
-`Vue.js` `PHP` `MySQL` `SaaS Architecture`
+`PHP` `MySQL` `Travel SaaS` `Booking Engine`
 
 </td>
 <td width="50%" valign="top">
@@ -170,13 +174,26 @@ Currently pursuing **Software Engineering at COMSATS University Islamabad** with
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammadtalha97&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Muhammad%20Talha's%20GitHub%20Stats" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammadtalha97&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Muhammad%20Talha's%20GitHub%20Stats" alt="GitHub Stats" height="180" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadtalha97&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadtalha97&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" height="180" />
+### 🔤 Most Used Languages & Tools
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)
+![Google Keep](https://img.shields.io/badge/Google_Keep-FBBC04?style=flat-square&logo=googlekeep&logoColor=black)
 
 <br/>
 
@@ -196,56 +213,64 @@ Currently pursuing **Software Engineering at COMSATS University Islamabad** with
 
 ---
 
-## 🎯 Current Goals & Future Vision
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  2025 → 2026 ROADMAP                                                        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🏢  Scale Encode Genius into a leading SaaS & product development studio   │
-│  🚀  Launch & grow multiple SaaS products serving global markets              │
-│  🤖  Integrate AI into products — smarter, faster, more intuitive apps        │
-│  🎓  Graduate with distinction in Software Engineering                      │
-│  🌍  Expand international client base & remote engineering teams            │
-│  📖  Contribute to open source & mentor aspiring developers                 │
-│  💡  Build the next generation of digital products that create real impact   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
+## 🚀 Vision & Goals
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🏢 Business
-Scaling **Encode Genius**  
-into a product-led  
-software company
+### 💼 Business Mindset
+
+- Build **Encode Genius** into a globally recognized SaaS & software powerhouse
+- Scale from client services → **product-based tech company (SaaS ecosystem)**
+- Create long-term revenue systems instead of short-term freelance work
+
+<br/>
+
+### 🌍 Entrepreneur Vision
+
+- Become a **leading tech entrepreneur from Pakistan**
+- Launch multiple global SaaS products solving real-world problems
+- Build a strong personal brand as a **founder + builder + innovator**
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 💻 Engineering
-Mastering **cloud-native**  
-architecture & **AI-powered**  
-application development
+### 🇵🇰 Impact Goals
 
-</td>
-<td align="center" width="33%">
+- Solve real industry problems in Pakistan using modern technology
+- Help businesses digitize with scalable, affordable software solutions
+- Contribute to improving Pakistan's tech ecosystem globally
 
-### 🌱 Impact
-Building products that  
-**empower businesses**  
-and **create opportunities**
+<br/>
+
+### 🧠 Developer Growth
+
+- Master full-stack system design & cloud architecture
+- Build highly scalable, production-grade applications
+- Focus on performance, security, and clean architecture
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Future Vision
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  BUILDING THE FUTURE                                                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  🌐  Turn ideas into global digital products used by millions                 │
+│  🏢  Build a company culture focused on innovation, speed, and quality        │
+│  🚀  Become a recognized name in global tech entrepreneurship                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -268,7 +293,7 @@ I'm always open to **collaborations**, **SaaS partnerships**, **freelance projec
 | 💼 LinkedIn | [linkedin.com/in/muhammadtalha35](https://www.linkedin.com/in/muhammadtalha35) |
 | 🐙 GitHub | [github.com/Muhammadtalha97](https://github.com/Muhammadtalha97) |
 | 🏢 Company | [Encode Genius](https://www.linkedin.com/company/encodegenius) |
-| 🎓 University | COMSATS University Islamabad |
+| 🎓 Education | COMSATS University Islamabad · B.S. Software Engineering (2025) · 3.79/4.00 CGPA |
 
 </div>
 
