@@ -326,7 +326,7 @@ Graduated with a **B.S. in Software Engineering from COMSATS University Islamaba
 
 > *"The best way to predict the future is to build it."*
 >
-> **— Muhammad Talha** · CEO & Founder, [Encode Genius](https://www.linkedin.com/company/encodegenius)
+> **Muhammad Talha** · CEO & Founder, [Encode Genius](https://www.linkedin.com/company/encodegenius)
 
 </div>
 
@@ -353,7 +353,7 @@ I'm always open to **collaborations**, **SaaS partnerships**, **freelance projec
 | 💼 LinkedIn | [linkedin.com/in/muhammadtalha35](https://www.linkedin.com/in/muhammadtalha35) |
 | 🐙 GitHub | [github.com/Muhammadtalha97](https://github.com/Muhammadtalha97) |
 | 🏢 Company | [Encode Genius](https://www.linkedin.com/company/encodegenius) |
-| 🎓 Education | COMSATS University Islamabad · B.S. Software Engineering (2025) · 3.79/4.00 CGPA |
+| 🎓 Education | COMSATS University Islamabad · B.S. Software Engineering |
 
 </div>
 
