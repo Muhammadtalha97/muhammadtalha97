@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=780&lines=Building+scalable+SaaS+products+%F0%9F%9A%80;Crafting+high-performance+web+apps+%E2%9A%A1;Leading+Encode+Genius+%F0%9F%8F%A2;Turning+ideas+into+digital+products+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=50&lines=Building+scalable+SaaS+products+%F0%9F%9A%80;Crafting+high-performance+web+apps+%E2%9A%A1;Leading+Encode+Genius+%F0%9F%8F%A2;Turning+ideas+into+digital+products+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/><br/>
 
